@@ -4,21 +4,21 @@
   color: #464646;
 }
 
-.nav > li > a:hover {
-  background-color: #696969;
-  text-align: center;
-}
-
 .navbar-light {
   background: #998675;
 }
 
 .navbar-light .navbar-nav .nav-link {
   color: #464646;
+  /*line-height: 50px;*/
 }
-
 
 .fa {
   color: #464646;
-  padding: 30%;
+  padding: 0 25px;
+}
+
+.nav-link:hover {
+  background: rgba(0,0,0,.25);
+  border-radius: 10px;
 }

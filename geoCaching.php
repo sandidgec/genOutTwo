@@ -64,12 +64,44 @@
               towards a harder level.  The simple level is recommended for beginners but is
               a good way to enjoy the outdoors.
             </p>
+          </div>
+        </div>
+      </div>
 
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <img src="lib/images/geocaching.jpg" class="geoImage" alt="" />
+          </div>
+          <div class="col-md-8">
+            <h5 class="outdoor2">Additional Information</h5>
+            <ul>
+              <li>Watch the <a href="https://www.youtube.com/watch?v=1YTqitVK-Ts&amp;feature=c4-overview-vl&amp;list=PLucT-F4R44Mdw2JtQzTqo7UuaWhAbYCZj">75-second
+                What is Geocaching?</a> video to learn more.</li>
+              <li>Visit some geocaching locations in New Mexico at <a href="http://www.traillink.com/stateactivity/nm-geocaching-trails.aspx">www.TrailLink.com</a>.</li>
+              <li>Want to learn more? <a href="https://www.rei.com/learn/expert-advice/gps-geocaching.html">www.Rei.com</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="container rafting">
+        <div class="row">
+          <div class="col-md-2">
+            <img src="lib/images/rafting.png" class="geoSide" alt="" />
+          </div>
+          <div class="col-md-8">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/sj31U_z9MFA" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <div class="col-md-2">
+            <img src="lib/images/hiking.png" class="geoSide" alt="" />
           </div>
         </div>
       </div>
 
 
+
+>
 
     <?php require_once ("lib/partials/scripts.php");?>
 

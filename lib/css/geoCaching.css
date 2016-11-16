@@ -150,14 +150,21 @@ body {
 .adventure .outdoor {
   margin-top: -150px;
 }
-.outdoor {
+
+.outdoor, .caching, .rules, ul {
   color: white;
 }
 
-.caching {
+.outdoor2 {
   color: white;
+  margin-top: 40px;
 }
 
-.rules {
-  color: white;
+.rafting {
+  margin-top: 35px;
+  text-align: center;
+}
+
+.geoSide {
+  margin-top: 50px;
 }
