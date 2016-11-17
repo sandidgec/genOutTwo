@@ -27,7 +27,7 @@
          </figure>
      </div>
        <div class="col-md-4 push">
-            <img src="lib/images/logo.png" class="logo img-fluid animated bounceInUp" alt="" />
+            <img src="lib/images/logo.png" class="logo img-fluid animated bounceInLeft" alt="" />
        </div>
      <div class="col-md-4 side">
          <figure class="circle">
