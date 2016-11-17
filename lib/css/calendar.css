@@ -235,3 +235,10 @@ h6{
   border: 1px solid white;
   margin-top: 60px;
 }
+
+#second {
+  font-family: cursive;
+  color: #464646;
+  font-family: 'Roboto Mono', monospace;
+
+}

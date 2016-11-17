@@ -168,3 +168,10 @@ body {
 .geoSide {
   margin-top: 50px;
 }
+
+#second {
+  font-family: cursive;
+  color: #464646;
+  font-family: 'Roboto Mono', monospace;
+
+}

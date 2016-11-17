@@ -5,7 +5,7 @@
     <title></title>
     <?php require_once ("lib/headUtils.php");?>
     <link rel="stylesheet" href="lib/css/navbar.css">
-    <link rel="stylesheet" href="lib/css/gallery.css">
+    <link rel="stylesheet" href="lib/css/gal.css">
 
   </head>
   <body>
@@ -16,6 +16,7 @@
       <h1>New Mexico</h1>
       <h1>Wildlife Federation</h1>
       <h1>Gen Out Youth Club</h1>
+      <h1 id="second">Gallery</h1>
       </div>
     </div>
 

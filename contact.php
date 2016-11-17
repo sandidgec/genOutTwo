@@ -5,8 +5,9 @@
     <title></title>
     <?php require_once ("lib/headUtils.php");?>
     <link rel="stylesheet" href="lib/css/navbar.css">
-    <link rel="stylesheet" href="lib/css/contact2.css">
+    <link rel="stylesheet" href="lib/css/contact.css">
     <link href="https://fonts.googleapis.com/css?family=PT+Mono" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
   </head>
   <body>
     <?php require_once ("lib/partials/navbar.php");?>
@@ -16,6 +17,7 @@
       <h1>New Mexico</h1>
       <h1>Wildlife Federation</h1>
       <h1>Gen Out Youth Club</h1>
+      <h1 id="second">Contact</h>
       </div>
     </div>
 
